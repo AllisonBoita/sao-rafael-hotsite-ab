@@ -108,13 +108,13 @@ export default {
             1,5% sobre a venda líquida<br>
             <br>
             <b>Valor mínimo</b><br>
-            R$ 1.980/mês<br>
+            R$ 2.110/mês<br>
             <br>
             <b>Valor máximo</b><br>
-            R$ 3.960/mês<br>
+            R$ 4.220/mês<br>
             <br>
             <b>Fundo de propaganda </b><br>
-            R$ 651,67/mês
+            R$ 735,95/mês
           `
         }
       },

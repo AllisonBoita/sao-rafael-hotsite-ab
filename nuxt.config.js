@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/test-gatilho/s-raf--ab'
+    base: '/'
     // base: '/'
   },
   generate: {
